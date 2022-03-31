@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ReyingRexerSprites.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="run_0000" x="0" y="0" width="133" height="143"/>
+	<SubTexture name="run_0001" x="133" y="0" width="133" height="143"/>
+	<SubTexture name="run_0002" x="266" y="0" width="133" height="143"/>
+	<SubTexture name="run_0003" x="399" y="0" width="133" height="143"/>
+	<SubTexture name="run_0004" x="532" y="0" width="133" height="143"/>
+	<SubTexture name="run_0005" x="0" y="0" width="133" height="143"/>
+	<SubTexture name="run_0006" x="665" y="0" width="133" height="143"/>
+	<SubTexture name="run_0007" x="798" y="0" width="133" height="143"/>
+	<SubTexture name="run_0008" x="0" y="143" width="133" height="143"/>
+	<SubTexture name="wait_0000" x="133" y="143" width="110" height="140"/>
+	<SubTexture name="wait_0001" x="243" y="143" width="110" height="140"/>
+</TextureAtlas>
